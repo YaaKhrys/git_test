@@ -1,2 +1,2 @@
 # git_test
-First Repository for TOP
+First Repository for TOP (The Odin Project)
